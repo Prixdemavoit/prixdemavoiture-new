@@ -1,0 +1,16 @@
+# Prix de ma voiture
+
+Application web permettant d'estimer le prix de votre véhicule en fonction de ses caractéristiques.
+
+## Fonctionnalités
+
+- Estimation de prix basée sur les données du marché
+- Interface utilisateur intuitive
+- Résultats détaillés d'estimation
+
+## Technologies utilisées
+
+- Next.js
+- TypeScript
+- React
+- Vercel pour le déploiement
